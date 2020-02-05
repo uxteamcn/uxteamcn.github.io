@@ -230,7 +230,7 @@ body {
 }
 
 .gtco-feature h2, .gtco-features h2 {
-  font-family: "Lato-medium";
+  font-family: "Lato-black";
   color: #d0dbe7;
   font-size: 36px;
   margin-bottom: 30px;
@@ -529,7 +529,7 @@ body {
   }
 }
 .gtco-testimonials h2 {
-  font-family: "Lato-Medium";
+  font-family: "Lato-black";
   font-size: 36px;
   text-align: center;
   color: #d0dbe7;
@@ -668,7 +668,7 @@ body {
 .gtco-news h2 {
    
   font-size: 36px;
-  font-family: "Lato-medium";
+  font-family: "Lato-black";
   text-align: center;
   margin-bottom: 50px;
     text-transform: uppercase;
@@ -786,8 +786,8 @@ body {
 }
 #gtco-footer .col-12 p {
   font-family: "Lato-light";
-  font-size: 18px;
-  color: #999999;
+  font-size: 15px;
+  color: #666666;
 }
 @media (max-width: 991px) {
   #gtco-footer .col-12 {
