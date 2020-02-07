@@ -1,7 +1,4 @@
-/*
- * Solution by GetTemplates.co
- * URL: https://GetTemplates.co
- */
+
 @font-face {
   font-family: "Lato-Regular";
   src: url(../fonts/Lato-Regular.ttf);
@@ -762,7 +759,7 @@ body {
 }
 #gtco-footer .company-nav, #gtco-footer .services-nav {
   font-family: "Lato-light";
-  font-size: 20px;
+  font-size: 18px;
 }
 #gtco-footer .company-nav a, #gtco-footer .services-nav a {
   color: #666666;
@@ -786,7 +783,7 @@ body {
 }
 #gtco-footer .col-12 p {
   font-family: "Lato-light";
-  font-size: 15px;
+  font-size: 14px;
   color: #666666;
 }
 @media (max-width: 991px) {
