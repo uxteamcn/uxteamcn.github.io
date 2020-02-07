@@ -783,8 +783,9 @@ body {
 }
 #gtco-footer .col-12 p {
   font-family: "Lato-light";
-  font-size: 14px;
+  font-size: 12px;
   color: #666666;
+    text-align: right;
 }
 @media (max-width: 991px) {
   #gtco-footer .col-12 {
